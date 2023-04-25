@@ -1,4 +1,4 @@
-/* Declare variables below to save the different sections (divs) of your story*/
+/* Declare variables below to save the different sections (divs) of your story a*/
 
 
 
